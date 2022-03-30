@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/vgp123 lab1 Macinnis Devon.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
